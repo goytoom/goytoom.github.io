@@ -38,19 +38,19 @@ font: "Serif" # or "Sans Serif"
 
 nav:
 - page: About Me
-  permalink: #About-Me
+  permalink: #about-me
 
 - page: News
-  permalink: #News
+  permalink: #news
 
 - page: Publications
-  permalink: #Publications
+  permalink: #publications
 
 - page: Current Projects
-  permalink: #Current-Projects
+  permalink: #current-projects
 
 - page: Contact
-  permalink: #Contact
+  permalink: #contact
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
