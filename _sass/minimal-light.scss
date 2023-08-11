@@ -383,6 +383,8 @@ header li {
   float:none;
   /* border-right:1px solid #e0e0e0; */
   height:40px;
+  text-align:left;
+  list-style-position: inside;
 }
 
 header li:first-child a {
@@ -399,6 +401,7 @@ header ul a {
   color:#999;
   display:block;
   text-align:left;
+  list-style-position: inside;
   padding-top:6px;
   height:34px;
 }
