@@ -20,7 +20,7 @@ main:
   - title: "Predicting responses to psychological questionnaires from participants’ social media posts and question text embeddings"
     authors: H Vu, <strong>S Abdurahman</strong>, S Bhatia, L Ungar
     # conference_short: EMNLP
-    conference: Findings of the Association for Computational Linguistics, EMNLP 2020" <strong>(EMNLP)</strong>, 2020.
+    conference: Findings of the Association for Computational Linguistics <strong>(EMNLP 2020)</strong>.
     pdf: https://aclanthology.org/2020.findings-emnlp.137.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://aclanthology.org/2020.findings-emnlp.137.bib
