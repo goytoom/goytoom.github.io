@@ -37,11 +37,20 @@ auto_dark_mode: true
 font: "Serif" # or "Sans Serif"
 
 nav:
-- page: Header One
-  permalink: #header-one
+- page: About Me
+  permalink: #About-Me
 
-- page: Header Two
-  permalink: #header-two
+- page: News
+  permalink: #News
+
+- page: Publications
+  permalink: #Publications
+
+- page: Current Projects
+  permalink: #Current-Projects
+
+- page: Contact
+  permalink: #Contact
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
