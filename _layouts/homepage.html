@@ -89,16 +89,18 @@
           <i class="fab fa-twitter"></i>
         </a>
         {% endif %}
+
+
+       	{% for n in site.nav %}
+	    <li><a href="{{ n.permalink }}">{{ n.page }}</a></li>
+		{% endfor %}
+	
         </div>
         <br>
 
       </header>
 
 
-	{% for n in site.nav %}
-	    <li><a href="{{ n.permalink }}">{{ n.page }}</a></li>
-	{% endfor %}
-	
 	<section>
       {{ content }}
 
