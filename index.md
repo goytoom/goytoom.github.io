@@ -5,9 +5,9 @@ layout: homepage
 ## About Me
 
 I am social psychologist with a strong engineering background. Prior to joining the University of Southern California, 
-I completed a  BS and MS in Process Engineering at the Berlin Institute of Technology.. 
-Originally, I was interested in using machine learning for control systems and general process optimization, 
-but I became increasingly interested in using these methods to model human processes. 
+I completed a  BS and MS in Process Engineering at the Berlin Institute of Technology. 
+Originally, I was interested in using machine learning for control systems and process optimization, 
+but I became increasingly interested in using these methods to model human behavior instead. 
 I then completed a BS in psychology at Free University Berlin, focusing on applying computational methods in social psychology and
 transitioned to studying complex human interactions through a combination of various computational and behavioral methods. 
 Currently, my research focuses on grounding computational methods in psychological theory to advance our knowledge of various social phenomena.
@@ -32,7 +32,12 @@ Currently, my research focuses on grounding computational methods in psychologic
 
 {% include_relative _includes/publications.md %}
 
-## Working Papers
+## Conferences
+- Abdurahman, S., Preston, E. (2023). Sharing is in Fact about Caring: Care Concerns Feature Prominently on Subreddits Devoted to Self-Injurious Thoughts and Behaviors. SPSP
+- Abdurahman, S., Osborne, M., Trager, J., Omrani, A., Dehghani, M. (2022). Fighting Fire with Fire: How groups incentivize incivility on social media platforms. Psychology of Technology
+- Abdurahman, S., Osborne, M., Omrani, A. (2022). Responding to Wrongdoing: Status Conferral in Online Conflicts. Media \& Technology Preconference @ SPSP
+
+## Current Projects
 - **Moral Framing Drives Misinformation Spread on Social Media:** We analyze how misinformation can exploit moral framing to increase spread on misinformation 
 and to what extent this mechanism could be exploited for targeted misinformation campaigns. We combine large-scale social media analyses with rigorous behavioral experiments and find that matched moral framing, 
 that is moral framing in line with and individuals' or groups' moral values, increases its spread online and in the lab independent of message veracity, familiarity or believability.
@@ -58,11 +63,6 @@ Specifically, we analyze whether groups reward social-norm violations, such as i
 We find that groups punish norm-violations when perceiving the outgroup as non-aggressive and reward it when feeling attacked. 
 Our results underline past work on tit-for-tat cycles of incivility as well as group dynamics rewarding commitment to and defense of the group, elucidating the quick deterioration of online discourse and the rapid spread of toxicity.
 
-## Conferences
-- Abdurahman, S., Preston, E. (2023). Sharing is in Fact about Caring: Care Concerns Feature Prominently on Subreddits Devoted to Self-Injurious Thoughts and Behaviors. SPSP
-- Abdurahman, S., Osborne, M., Trager, J., Omrani, A., Dehghani, M. (2022). Fighting Fire with Fire: How groups incentivize incivility on social media platforms. Psychology of Technology
-- Abdurahman, S., Osborne, M., Omrani, A. (2022). Responding to Wrongdoing: Status Conferral in Online Conflicts. Media \& Technology Preconference @ SPSP
-
 ## Past Projects
 
 - **Master's Thesis:** _Joschka Schulz & Matthias Kraume (TU Berlin)_ <br>
@@ -71,7 +71,7 @@ An exemplary study on automated categorisation and evaluation of peer-reviewed s
 - **Bachelor's Thesis:** _Philipp Schäpers & Stefan Krumm (FU Berlin)_ <br>
 Predicting Job-Ratings from Job-Postings using Natural Language Processing: A Machine Learning Approach to Understanding Corporate Language 
 
-- **Bachelor's Thesis:** _Lia Strenge & Jörg Raisch (TU Berlin)_\\
+- **Bachelor's Thesis:** _Lia Strenge & Jörg Raisch (TU Berlin)_ <br>
 Model Identification for Designing a PWM-based Solar Charge Controller 
 
 

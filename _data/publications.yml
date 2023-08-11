@@ -18,7 +18,7 @@ main:
     image: ./assets/img/sharing_is_caring.jpg
 
   - title: "Predicting responses to psychological questionnaires from participants’ social media posts and question text embeddings"
-    authors: H Vu, <strong>S Abdurahman</strong>, S Bhatia, L Ungar
+    authors: Huy Vu, <strong>Suhaib Abdurahman</strong>, Sudeep Bhatia, Lyle Ungar
     conference: Findings of the Association for Computational Linguistics <strong>(EMNLP 2020)</strong>.
     pdf: https://aclanthology.org/2020.findings-emnlp.137.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
