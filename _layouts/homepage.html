@@ -93,14 +93,43 @@
         <br>
 
       </header>
-      <section>
 
+  <div class="topnav">
+    <a class="active" href="#home">About Me</a>
+    <a href="#news">News</a>
+    <a href="#publications">Publications</a>
+    <a href="#projects">Current Projects</a>
+    <a href="#contact">Contact</a>
+  </div>
+
+	<section id="home">
+      {% include_relative about.md %}
+      </section>
+
+	<section id="news">
+      {% include_relative news.md %}
+	</section>
+	
+	<section id="publications">
+      {% include_relative publication.md %}
+      </section>
+      
+	<section id="projects">
+      {% include_relative projects.md %}
+	</section>
+	
+	<section>
       {{ content }}
+	</section>
+
+	<section id="contact">
+      {% include_relative contact.md %}
+
 
       <br>
 
       {% if site.enable_footnote %}
-      <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
+      <!-- <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p> -->
       {% endif %}
 
       </section>
