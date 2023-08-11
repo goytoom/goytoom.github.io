@@ -11,15 +11,14 @@ main:
   - title: "Sharing is in fact about caring: Care concerns feature prominently in subreddits devoted to self-injurious thoughts and behaviors"
     authors: Emma Preston <strong>Suhaib Abdurahman</strong>, Diane Woodward, Amy West
     conference: Computers in Human Behavior, 2023.
-    # pdf: https://arxiv.org/pdf/2002.10211.pdf #add to server
+    pdf: https://doi.org/10.1016/j.chb.2023.107786  #add to server and directly link
     code: https://github.com/goytoom/eSITB
-    page: https://doi.org/10.1016/j.chb.2023.107786
+    # page: https://doi.org/10.1016/j.chb.2023.107786
     bibtex: https://www.sciencedirect.com/sdfe/arp/cite?pii=S0747563223001371&format=text%2Fx-bibtex&withabstract=true
     image: ./assets/img/teaser_example.png
 
   - title: "Predicting responses to psychological questionnaires from participants’ social media posts and question text embeddings"
     authors: H Vu, <strong>S Abdurahman</strong>, S Bhatia, L Ungar
-    # conference_short: EMNLP
     conference: Findings of the Association for Computational Linguistics <strong>(EMNLP 2020)</strong>.
     pdf: https://aclanthology.org/2020.findings-emnlp.137.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
