@@ -376,7 +376,7 @@ header ul {
   width:270px;
   text-align:left;
   list-style-position: inside;
-  padding-left:40px;
+  margin-left:40px;
 }
 
 header li {
@@ -386,6 +386,7 @@ header li {
   height:40px;
   text-align:left;
   list-style-position: inside;
+  /* padding-left:40px; */
 }
 
 header li:first-child a {
@@ -405,7 +406,7 @@ header ul a {
   list-style-position: inside;
   padding-top:6px;
   height:34px;
-  padding-left:40px;
+  margin-left:40px;
 }
 
 header ul a:hover {
