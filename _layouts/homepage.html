@@ -38,6 +38,9 @@
   <body>
     <div class="wrapper">
       <header>
+      {% for n in site.nav %}
+          <li><a href="{{ n.permalink }}">{{ n.page }}</a></li>
+      {% endfor %}
         
         {% if site.avatar %}
         <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
@@ -94,36 +97,36 @@
 
       </header>
 
-  <div class="topnav">
-    <a class="active" href="#home">About Me</a>
-    <a href="#news">News</a>
-    <a href="#publications">Publications</a>
-    <a href="#projects">Current Projects</a>
-    <a href="#contact">Contact</a>
-  </div>
+  <!-- <div class="topnav"> -->
+    <!-- <a class="active" href="#home">About Me</a> -->
+    <!-- <a href="#news">News</a> -->
+    <!-- <a href="#publications">Publications</a> -->
+    <!-- <a href="#projects">Current Projects</a> -->
+    <!-- <a href="#contact">Contact</a> -->
+  <!-- </div> -->
 
-	<section id="home">
-      {% include_relative about.md %}
-      </section>
-
-	<section id="news">
-      {% include_relative news.md %}
-	</section>
-	
-	<section id="publications">
-      {% include_relative publications.md %}
-      </section>
-      
-	<section id="projects">
-      {% include_relative projects.md %}
-	</section>
+	<!-- <section id="home"> -->
+      <!-- {% include_relative about.md %} -->
+      <!-- </section> -->
+<!--  -->
+	<!-- <section id="news"> -->
+      <!-- {% include_relative news.md %} -->
+	<!-- </section> -->
+	<!--  -->
+	<!-- <section id="publications"> -->
+      <!-- {% include_relative publications.md %} -->
+      <!-- </section> -->
+      <!--  -->
+	<!-- <section id="projects"> -->
+      <!-- {% include_relative projects.md %} -->
+	<!-- </section> -->
 	
 	<section>
       {{ content }}
-	</section>
-
-	<section id="contact">
-      {% include_relative contact.md %}
+	<!-- </section> -->
+<!--  -->
+	<!-- <section id="contact"> -->
+      <!-- {% include_relative contact.md %} -->
 
 
       <br>
