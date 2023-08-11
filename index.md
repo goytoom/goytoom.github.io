@@ -78,9 +78,9 @@ Model Identification for Designing a PWM-based Solar Charge Controller
 {% include_relative _includes/services.md %}
 
 ## Contact 
-Address: SGM 501, 3620 McClintock Ave, Los Angeles CA 90089 
-Office Location: SGM 604 
-Email: sabdurah (at) usc.edu 
-<!-- Phone: (857) 209-8688 --> 
+Address: SGM 501, 3620 McClintock Ave, Los Angeles CA 90089\
+Office Location: SGM 604\
+Email: sabdurah (at) usc.edu\
+<!-- Phone: (XXX) XXX-XXXX --> 
 
 
