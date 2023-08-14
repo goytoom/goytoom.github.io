@@ -15,7 +15,7 @@ Currently, my research focuses on grounding computational methods in psychologic
 ## Research Interests 
 
 - **Morality, Values, and Pro-social Behavior:** How do humans conceptualize moral values and how do they guide our behavior, good or bad?
-- **Online & Social Media Behavior:** How do humans act in different contexts online and what does it tell us about the underlying dynamics of hate & conflicts but also mental health & well-being? 
+- **Online & Social Media Behavior:** What insights does online behavior across various contexts provide about hate, conflicts, as well as mental health & well-being? 
 - **Theory-Driven Computational Models:** How can we place top-down, theory-driven constraints on computational methods to increase interpretability and robustness? 
 
 ## Research Methods 
