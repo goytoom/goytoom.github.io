@@ -14,8 +14,8 @@ Currently, my research focuses on grounding computational methods in psychologic
 
 ## Research Interests 
 
-- **Morality & Values, Pro-social Behavior:** How do humans conceptualize moral values and how do they guide our behavior, good or bad?
-- **Cross-cultural differences:** How does human psychology differ across cultures and how does this lead to bias, prejudice, and conflicts? 
+- **Morality, Values, and Pro-social Behavior:** How do humans conceptualize moral values and how do they guide our behavior, good or bad?
+- **Online & Social Media Behavior:** How do humans act in different contexts online and what does it tell us about the underlying dynamics of hate & conflicts but also mental health & well-being? 
 - **Theory-Driven Computational Models:** How can we place top-down, theory-driven constraints on computational methods to increase interpretability and robustness? 
 
 ## Research Methods 
@@ -79,7 +79,7 @@ Model Identification for Designing a PWM-based Solar Charge Controller
 ## Contact 
 Address: 3620 McClintock Ave, Los Angeles CA 90089\
 Office Location: SGM 604\
-Email: sabdurah (at) usc.edu\
+Email: sabdurah@usc.edu\
 <!-- Phone: (XXX) XXX-XXXX --> 
 
 
