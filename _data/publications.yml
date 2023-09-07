@@ -2,12 +2,12 @@ main:
   - title: "A Deep Language Approach to Personality Assessment: Generalizing Across Items and Expanding the Reach of Survey-Based Research"
     authors: <strong>Suhaib Abdurahman</strong>, Huy Vu, Wanling Zou, Lyle Ungar, Sudeep Bhatia
     conference: Journal of Personality and Social Psychology <strong>(JPSP)</strong>, 2023.
-    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    pdf: ./assets/files/JPSP_manuscript_share.pdf
     code: https://github.com/goytoom/questionnaire-embeddings
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    image: ./assets/img/teaser_example.png
-
+    image: ./assets/img/a_deep_learning_approach.png
+    
   - title: "Sharing is in fact about caring: Care concerns feature prominently in subreddits devoted to self-injurious thoughts and behaviors"
     authors: Emma Preston <strong>Suhaib Abdurahman</strong>, Diane Woodward, Amy West
     conference: Computers in Human Behavior, 2023.
