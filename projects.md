@@ -6,7 +6,7 @@ layout: homepage
 - **Moral Framing Drives Misinformation Spread on Social Media:** We analyze how misinformation can exploit moral framing to increase spread on misinformation 
 and to what extent this mechanism could be exploited for targeted misinformation campaigns. We combine large-scale social media analyses with rigorous behavioral experiments and find that matched moral framing, 
 that is moral framing in line with and individuals' or groups' moral values, increases its spread online and in the lab independent of message veracity, familiarity or believability.
-- **Opportunities, Perils, and Misperceptions in Using Large Language Models in Psychological Research**: We conduct  an in-depth assessment of Large Language Models (LLMs), such as ChatGPT, in psychological research, 
+- **Opportunities, Perils, and Misperceptions of Using Large Language Models in Psychological Research**: We conduct  an in-depth assessment of Large Language Models (LLMs), such as ChatGPT, in psychological research, 
 exploring their increasing use as human participant substitutes and all-purpose text-analysis tools. Through a comprehensive review of existing literature and empirical tests, we uncover significant concerns. 
 Popular LLMs' inherent complexity, limited interpretability, and proprietary nature pose challenges to accessibility and transparency. Across a range of tests, LLMs perform worse than small(er) language models 
 and even theory-based, interpretable methods. At the same time LLMs show significantly higher demographic biases while being less robust and less reproducible.
