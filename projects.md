@@ -6,8 +6,8 @@ layout: homepage
 - **Moral Framing Drives Misinformation Spread on Social Media:** We analyze how misinformation can exploit moral framing to increase spread on misinformation 
 and to what extent this mechanism could be exploited for targeted misinformation campaigns. We combine large-scale social media analyses with rigorous behavioral experiments and find that matched moral framing, 
 that is moral framing in line with and individuals' or groups' moral values, increases its spread online and in the lab independent of message veracity, familiarity or believability.
-- **Opportunities, Perils, and Misperceptions of Using Large Language Models in Psychological Research**: We conduct  an in-depth assessment of Large Language Models (LLMs), such as ChatGPT, in psychological research, 
-exploring their increasing use as human participant substitutes and all-purpose text-analysis tools. Through a comprehensive review of existing literature and empirical tests, we uncover significant concerns. 
+- **Opportunities, Perils, and Misperceptions of Using Large Language Models in Psychological Research**: We conduct  an in-depth assessment of Large Language Models (LLMs), such as ChatGPT, in psychological research, exploring their increasing use as human participant substitutes 
+and all-purpose text-analysis tools. Through a comprehensive review of existing literature and empirical tests, we uncover significant concerns. 
 Popular LLMs' inherent complexity, limited interpretability, and proprietary nature pose challenges to accessibility and transparency. Across a range of tests, LLMs perform worse than small(er) language models 
 and even theory-based, interpretable methods. At the same time LLMs show significantly higher demographic biases while being less robust and less reproducible.
 We emphasize the need for a balanced approach, harnessing LLMs' potential while being mindful of these issues, ultimately striving to enhance the quality and inclusivity of psychological science.
@@ -15,10 +15,6 @@ We emphasize the need for a balanced approach, harnessing LLMs' potential while 
 In this framework, individuals hold distinct notions of right and wrong, with real-life scenarios contextually mapping onto these representations as exemplars (e.g., via perception of prototypicality) or through associated features (e.g., perceived harm). 
 Through empirical studies, we uncover the intricate interplay between context, moral judgments, and intrinsic value representations in the brain, offering theory-informed insights into vital moral topics.
 By embracing context and a representation lens, we enhance the scope of moral psychology research, deepening our grasp of context-sensitive moral judgments, and facilitateg the integration of diverse moral theories
-- **Using semantic representations to facilitate survey based research:** We combine semantic representations (embeddings) of survey items with machine learning to create reliable and highly predictive short scales from full scales 
-by identifying the most predictive items from the full scale and optimizing the number of items in the short scale. Additionally, our approach enhances data quality by predicting responses to full scales from short scales, 
-and is even capable of predicting important psychological variables related to well-being and mental health. We further explore the use of generative models for generating items in both short and long scales. 
-Validation demonstrates that current large language models can successfully produce novel items for our research pipeline.
 - **Social inferences in language models:** We conduct an in-depth analysis of social inferences in both small and large language models, such as BERT, GPT3, and GPT4. 
 By inferring the psychometrics of human targets based on their responses to various psychological survey items (e.g., personality, morality, cognition, emotion), 
 we assess the models' capability across diverse surveys and non-classical questionnaire structures. We further investigate biases in the models' inferences, focusing on specific demographics that may be inaccurately represented. 
