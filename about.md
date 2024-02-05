@@ -20,7 +20,7 @@ Currently, my research focuses on grounding computational methods in psychologic
 
 ## Research Methods
 - **Machine Learning:** Applying machine learning to access new sources of information and to facilitate robust inferences about social phenomena.
-- **Natural Language Processing:** Apply NLP to extract psychological information from textual data. Critically examine what language models can tell us about human psychology.
+- **Natural Language Processing:** Apply NLP to extract psychological information from text data. Critically examine what language models can tell us about human psychology.
 - **Agent-based Models:** Simulate large-scale social interactions to elucidate the underlying dynamics of moral behaviors. Can these insights help to facilitate pro-social behavior?
 - **Bayesian Multilevel Models:** Apply advanced modeling techniques to generate more robust and generalizable research findings.
 
