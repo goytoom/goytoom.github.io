@@ -50,7 +50,7 @@ Here, we highlight the risks associated with the rushed application of these tec
 We review and conduct a comprehensive analysis of both the benefits and risks associated with using LLMs in psychological research and 
 advocate for the development of reliable applications and the use of open, interpretable models. We also quantify, and warn against, cultural biases of LLMs. 
 A more inclusive approach is critical to ensuring reproducible, generalizable, and unbiased scientific insights, when employing LLMs to study the human mind. 
-- **Contextual Moral Values and Categorization:** We propose a framework that emphasizes the role of representations in understanding moral values and their underlying neural processes. 
+- **Contextual Moral Values and Categorization:** We propose a framework that emphasizes the role of representations and categorization in understanding moral values and their underlying neural processes. 
 In this framework, individuals hold distinct notions of right and wrong, with real-life scenarios contextually mapping onto these representations as exemplars (e.g., via perception of prototypicality) or through associated features (e.g., perceived harm). 
 Through multiple empirical studies, we investigate the intricate interplay between context, moral judgments, and value representations in the brain, offering theory-informed insights into vital moral topics. 
 By embracing context and a representation lens, we enhance the scope of moral psychology research, deepening our grasp of context-sensitive moral judgments, and facilitating the integration of diverse moral theories. 
