@@ -46,7 +46,7 @@ targeted misinformation campaigns. We combine large-scale social media analyses 
 or groups' moral values increases its spread independent of message veracity, familiarity or believability. 
 - **Perils and Opportunities in Using Large Language Models in Psychological Research**: 
 Not only are Large Language Models (LLMs) such as ChatGPT becoming increasingly embedded in people's everyday life in many societies, they are becoming an important tool in psychological research. 
-Here, we highlight the risks associated with the rushed application of these technologies to psychological research, a practice we call ``GPTology.''   
+Here, we highlight the risks associated with the rushed application of these technologies to psychological research, a practice we call "GPTology".   
 We review and conduct a comprehensive analysis of both the benefits and risks associated with using LLMs in psychological research and 
 advocate for the development of reliable applications and the use of open, interpretable models. We also quantify, and warn against, cultural biases of LLMs. 
 A more inclusive approach is critical to ensuring reproducible, generalizable, and unbiased scientific insights, when employing LLMs to study the human mind. 
