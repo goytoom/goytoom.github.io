@@ -53,11 +53,13 @@ A more inclusive approach is critical to ensuring reproducible, generalizable, a
 - **Contextual Moral Values and Categorization:** We propose a framework that emphasizes the role of representations in understanding moral values and their underlying neural processes. 
 In this framework, individuals hold distinct notions of right and wrong, with real-life scenarios contextually mapping onto these representations as exemplars (e.g., via perception of prototypicality) or through associated features (e.g., perceived harm). 
 Through multiple empirical studies, we investigate the intricate interplay between context, moral judgments, and value representations in the brain, offering theory-informed insights into vital moral topics. 
-By embracing context and a representation lens, we enhance the scope of moral psychology research, deepening our grasp of context-sensitive moral judgments, and facilitateg the integration of diverse moral theories. 
-- **Social inferences in language models:** We conduct an in-depth analysis of social inferences in both small and large language models, such as BERT, GPT3, and GPT4. 
-We assess the models' capability to infer the psychometrics of human targets based on their responses to various psychological survey items across diverse surveys (e.g., personality, morality, cognition, emotion),
-and non-classical questionnaire structures. We further investigate biases in the models' inferences, focusing on specific demographics that may be inaccurately represented. 
-Finally, we compare language models to human raters, examining differences in inferences, identifying challenges faced by the models (e.g., contradictory responses, stereotypes), and understanding how humans handle such challenges. 
+By embracing context and a representation lens, we enhance the scope of moral psychology research, deepening our grasp of context-sensitive moral judgments, and facilitating the integration of diverse moral theories. 
+- **Social inferences in language models:** We investigate how fine-tuned smaller encoder-based language models (e.g., BERT) and large generative language models (GPT-3, GPT-4) interpret social cues and psychometrics 
+from responses to diverse psychological surveys, including non-traditional questionnaire formats. We evaluate these models' abilities against human raters, focusing on accuracy and bias, 
+particularly concerning demographic representations. Our findings reveal that both model types demonstrate a high capacity for making accurate social inferences, 
+with large language models like ChatGPT showing superior performance even in zero-shot scenarios. However, LLMs also exhibit more pronounced biases and present interpretability challenges 
+compared to their smaller counterparts which allow access to the model's underlying representations of the social cues. We suggest that reducing LLM biases requires advanced prompting techniques and 
+targeted fine-tuning, which can further enhance their inference accuracy. Our comparison highlights the nuanced trade-offs between model accuracy, bias, and transparency in the context of social inference tasks.
 - **Counter-normative status conferral on social media platform:** We combine large-scale social media analysis with behavioral experiments to investigate how and when groups punish or reward norm-violations. 
 Specifically, we analyze whether groups reward social-norm violations, such as incivility and aggression, when attacked by outgroup members and contrast this to their reaction during non-aggressive outgroup interaction. 
 We find that groups punish norm-violations when perceiving the outgroup as non-aggressive and reward it when feeling attacked. Our results underline past work on tit-for-tat cycles of incivility 
