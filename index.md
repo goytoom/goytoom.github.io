@@ -41,16 +41,18 @@ Currently, my research focuses on grounding computational methods in psychologic
 - Abdurahman, S., Osborne, M., Omrani, A. (2022). Responding to Wrongdoing: Status Conferral in Online Conflicts. Media \& Technology Preconference @ SPSP
 
 ## Papers in preparation & under review 
-- **Moral Framing Drives Misinformation Spread on Social Media:** We analyze how  moral framing can increase dissemination of online misinformation and its potential for
+- **Targeting Audiences' Moral Values Shapes Misinformation Sharing:** We analyze how  moral framing can increase dissemination of online misinformation and its potential for
 targeted misinformation campaigns. We combine large-scale social media analyses with rigorous behavioral experiments and find that matched moral framing in line with individuals'
 or groups' moral values increases its spread independent of message veracity, familiarity or believability. 
-- **Opportunities, Perils, and Misperceptions in Using Large Language Models in Psychological Research**: We conduct an in-depth assessment of Large Language Models (LLMs), such as ChatGPT, in psychological research as human participant substitutes 
-or all-purpose text-analysis tools. Through a comprehensive review of existing literature and empirical tests, we uncover significant concerns. Popular LLMs' inherent complexity, limited interpretability, and proprietary nature pose challenges to 
-accessibility and transparency. Across a range of tests, LLMs perform worse than small(er) language models and even theory-based, interpretable methods. At the same time LLMs show significantly higher demographic biases while being less robust and 
-less reproducible. We emphasize the need for a balanced approach, harnessing LLMs' potential while being mindful of these issues, ultimately striving to enhance the quality and inclusivity of psychological science. 
-- **Contextual Moral Values Through Latent Moral Representations:** We propose a framework that emphasizes the role of representations in understanding moral values and their underlying neural processes. 
+- **Perils and Opportunities in Using Large Language Models in Psychological Research**: 
+Not only are Large Language Models (LLMs) such as ChatGPT becoming increasingly embedded in people's everyday life in many societies, they are becoming an important tool in psychological research. 
+Here, we highlight the risks associated with the rushed application of these technologies to psychological research, a practice we call ``GPTology.''   
+We review and conduct a comprehensive analysis of both the benefits and risks associated with using LLMs in psychological research and 
+advocate for the development of reliable applications and the use of open, interpretable models. We also quantify, and warn against, cultural biases of LLMs. 
+A more inclusive approach is critical to ensuring reproducible, generalizable, and unbiased scientific insights, when employing LLMs to study the human mind. 
+- **Contextual Moral Values and Categorization:** We propose a framework that emphasizes the role of representations in understanding moral values and their underlying neural processes. 
 In this framework, individuals hold distinct notions of right and wrong, with real-life scenarios contextually mapping onto these representations as exemplars (e.g., via perception of prototypicality) or through associated features (e.g., perceived harm). 
-Through empirical studies, we investigate the intricate interplay between context, moral judgments, and value representations in the brain, offering theory-informed insights into vital moral topics. 
+Through multiple empirical studies, we investigate the intricate interplay between context, moral judgments, and value representations in the brain, offering theory-informed insights into vital moral topics. 
 By embracing context and a representation lens, we enhance the scope of moral psychology research, deepening our grasp of context-sensitive moral judgments, and facilitateg the integration of diverse moral theories. 
 - **Social inferences in language models:** We conduct an in-depth analysis of social inferences in both small and large language models, such as BERT, GPT3, and GPT4. 
 We assess the models' capability to infer the psychometrics of human targets based on their responses to various psychological survey items across diverse surveys (e.g., personality, morality, cognition, emotion),
