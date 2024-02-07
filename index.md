@@ -25,9 +25,9 @@ Currently, my research focuses on grounding computational methods in psychologic
 - **Bayesian Multilevel Models:** Applying advaced modeling techniques to generate more robust and generalizable research findings. 
 
 
-## News 
-
-- **[Aug. 2023]** Coming soon. 
+<!-- ## News -->
+<!--  -->
+<!-- - **[Aug. 2023]** Coming soon. -->
 
 
 {% include_relative _includes/publications.md %} 
