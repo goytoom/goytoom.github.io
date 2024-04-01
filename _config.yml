@@ -40,14 +40,11 @@ nav:
 - page: About Me
   permalink: #heading-about-me
 
-- page: News
-  permalink: #heading-news
-
 - page: Publications
   permalink: #heading-publications
 
 - page: Current Projects
-  permalink: #heading-current-projects
+  permalink: #heading-papers-in-preparation-&-under-review
 
 - page: Contact
   permalink: #heading-contact
