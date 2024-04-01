@@ -3,7 +3,6 @@ layout: homepage
 ---
 
 ## About Me 
-
 I am social psychologist with a strong engineering background. Prior to joining the University of Southern California, 
 I completed a  BS and MS in Process Engineering at the Berlin Institute of Technology. 
 Originally, I was interested in using machine learning for control systems and process optimization, 
@@ -40,7 +39,7 @@ Currently, my research focuses on grounding computational methods in psychologic
 - Abdurahman, S., Osborne, M., Trager, J., Omrani, A., Dehghani, M. (2022). Fighting Fire with Fire: How groups incentivize incivility on social media platforms. Psychology of Technology
 - Abdurahman, S., Osborne, M., Omrani, A. (2022). Responding to Wrongdoing: Status Conferral in Online Conflicts. Media \& Technology Preconference @ SPSP
 
-## Papers in preparation & under review 
+## Current Projects 
 - **Targeting Audiences' Moral Values Shapes Misinformation Sharing:** We analyze how moral framing increases dissemination of online misinformation and its potential for
 targeted misinformation campaigns. We combine large-scale social media analyses with behavioral experiments and find that matched moral framing in line with individuals'
  moral values increases its spread independent of message veracity, familiarity or believability. 
