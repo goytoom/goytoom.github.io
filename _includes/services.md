@@ -10,6 +10,7 @@
   <li><a href="https://www.sciencedirect.com/journal/computers-in-human-behavior"><autocolor>Computers in Human Behavior</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>Behavior Research Methods</autocolor></a></li>
   <li><a href="https://www.psychologicalscience.org/publications/ampps"><autocolor>Advances in Methods and Practices in Psychological Science</autocolor></a></li>
+  <li><a href="https://www.frontiersin.org/journals/social-psychology"><autocolor>Frontiers in Social Psychology</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Departmental Service</h4>

@@ -27,7 +27,7 @@ Currently, my research focuses on grounding computational methods in psychologic
 
 <!-- ## News -->
 <!--  -->
-<!-- - **[Aug. 2023]** Coming soon. -->
+<!-- - **[Aug. 2024]** Coming soon. -->
 
 
 {% include_relative _includes/publications.md %} 
@@ -41,7 +41,7 @@ Currently, my research focuses on grounding computational methods in psychologic
 - Abdurahman, S., Osborne, M., Omrani, A. (2022). Responding to Wrongdoing: Status Conferral in Online Conflicts. Media \& Technology Preconference @ SPSP
 
 ## Papers in preparation & under review 
-- **Targeting Audiences' Moral Values Shapes Misinformation Sharing:** We analyze how  moral framing increases dissemination of online misinformation and its potential for
+- **Targeting Audiences' Moral Values Shapes Misinformation Sharing:** We analyze how moral framing increases dissemination of online misinformation and its potential for
 targeted misinformation campaigns. We combine large-scale social media analyses with behavioral experiments and find that matched moral framing in line with individuals'
  moral values increases its spread independent of message veracity, familiarity or believability. 
 - **Perils and Opportunities in Using Large Language Models in Psychological Research**: 
