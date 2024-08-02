@@ -1,4 +1,13 @@
 main:
+  - title: "Perils and opportunities in using large language models in psychological research"
+      authors: <strong>Suhaib Abdurahman</strong>, Mohammad Atari, Farzan Karimi-Malekabadi, Mona J Xue, Jackson Trager, Peter S Park, Preni Golazizian, Ali Omrani, Morteza Dehghani
+      conference: PNAS Nexus <strong>(PNAS NEXUS)</strong>, 2024.
+      pdf: ./assets/files/JPSP_manuscript_share.pdf
+      code: https://github.com/goytoom/questionnaire-embeddings
+      # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+      # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+      image: ./assets/img/a_deep_learning_appro
+      
   - title: "A Deep Language Approach to Personality Assessment: Generalizing Across Items and Expanding the Reach of Survey-Based Research"
     authors: <strong>Suhaib Abdurahman</strong>, Huy Vu, Wanling Zou, Lyle Ungar, Sudeep Bhatia
     conference: Journal of Personality and Social Psychology <strong>(JPSP)</strong>, 2023.
