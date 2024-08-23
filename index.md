@@ -60,6 +60,9 @@ and show that group dynamics, which  reward commitment to and defense of the gro
 
 ## Past Projects 
 
+- **Master's Thesis:** _Morteza Dehghani_ (University of Southern California)_ <br>
+How Misinformation Exploits Moral Values and Framing: Insights from Social Media Platforms and Behavioral Experiments
+
 - **Master's Thesis:** _Joschka Schulz & Matthias Kraume (TU Berlin)_ <br> 
 An exemplary study on automated categorisation and evaluation of peer-reviewed scientific literature concerning interfacial effects in disperse multi-phase systems 
 
