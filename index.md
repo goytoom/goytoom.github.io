@@ -62,16 +62,16 @@ and show that group dynamics, which  reward commitment to and defense of the gro
 
 ## Past Projects 
 
-- **Master's Thesis:** _Morteza Dehghani_ (University of Southern California)_ <br>
+- **Master's Thesis:** Advised by  _Morteza Dehghani_ (University of Southern California)_ <br>
 How Misinformation Exploits Moral Values and Framing: Insights from Social Media Platforms and Behavioral Experiments
 
-- **Master's Thesis:** _Joschka Schulz & Matthias Kraume (TU Berlin)_ <br> 
+- **Master's Thesis:** Advised by _Joschka Schulz & Matthias Kraume (TU Berlin)_ <br> 
 An exemplary study on automated categorisation and evaluation of peer-reviewed scientific literature concerning interfacial effects in disperse multi-phase systems 
 
-- **Bachelor's Thesis:** _Philipp Schäpers & Stefan Krumm (FU Berlin)_ <br> 
+- **Bachelor's Thesis:** Advised by _Philipp Schäpers & Stefan Krumm (FU Berlin)_ <br> 
 Predicting Job-Ratings from Job-Postings using Natural Language Processing: A Machine Learning Approach to Understanding Corporate Language 
 
-- **Bachelor's Thesis:** _Lia Strenge & Jörg Raisch (TU Berlin)_ <br> 
+- **Bachelor's Thesis:** Advised by _Lia Strenge & Jörg Raisch (TU Berlin)_ <br> 
 Model Identification for Designing a PWM-based Solar Charge Controller 
 
 {% include_relative _includes/services.md %}
