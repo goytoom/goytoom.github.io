@@ -6,7 +6,7 @@ main:
     code: https://github.com/goytoom/LLMs_perils_opportunities
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    image: ./assets/img/perils
+    image: ./assets/img/perils.png
       
   - title: "A Deep Language Approach to Personality Assessment: Generalizing Across Items and Expanding the Reach of Survey-Based Research"
     authors: <strong>Suhaib Abdurahman</strong>, Huy Vu, Wanling Zou, Lyle Ungar, Sudeep Bhatia
