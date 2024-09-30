@@ -44,10 +44,12 @@ Currently, my research focuses on grounding computational methods in psychologic
 - **Targeting Audiences' Moral Values Shapes Misinformation Sharing:** We analyze how moral framing increases dissemination of online misinformation and its potential for
 targeted misinformation campaigns. We combine large-scale social media analyses with behavioral experiments and find that matched moral framing in line with individuals'
  moral values increases its spread independent of message veracity, familiarity or believability. 
-- **Perils and Opportunities in Using Large Language Models in Psychological Research**: 
-We review and conduct a comprehensive analysis of both the benefits and risks associated with using LLMs in psychological research and 
-advocate for the development of reliable applications and the use of open, interpretable models. We also quantify, and warn against, cultural biases of LLMs. 
-A more inclusive approach is critical to ensuring reproducible, generalizable, and unbiased scientific insights, when employing LLMs to study the human mind. 
+ - **Evaluating Large Language Models in Psychological Research: A Guide for Authors and Reviewers:** We provide a set of best practices for authors and reviewers in psychological research
+  involving Large Language Models (LLMs). Our guide emphasizes methodological rigor, replicability, and transparency, addressing the challenges posed by the non-deterministic nature of LLMs. 
+  By ensuring robust and valid applications of LLMs, we aim to support high-quality, innovative research in the evolving landscape of psychological studies
+- **Explaining Explainability: Interpretable machine learning for the behavioral sciences:** We advocate for the adoption of interpretable Machine Learning (ML) techniques in behavioral sciences,
+ dispelling misconceptions that ML models are 'black boxes' and unsuitable for inference. By highlighting the nuanced nature of model interpretability, 
+ the compatibility of interpretability with predictive accuracy, and the potential of post hoc explanations, we encourage the use of ML models to both predict and understand complex behavioral phenomena.
 - **Contextual Moral Values and Categorization:** We propose a novel framework that emphasizes the role of representations and categorization for moral values.
 In this framework, individuals hold distinct notions of right and wrong, with real-life scenarios contextually mapping onto these representations as exemplars (e.g., via perception of prototypicality) or through associated features (e.g., perceived harm). 
 Through multiple empirical studies, we investigate the interplay between context, moral judgments, and value representations in the brain, offering theory-informed insights into vital moral topics. 
@@ -61,13 +63,16 @@ and show that group dynamics, which  reward commitment to and defense of the gro
 
 ## Past Projects 
 
-- **Master's Thesis:** _Joschka Schulz & Matthias Kraume (TU Berlin)_ <br> 
+- **Master's Thesis:** Advised by  _Morteza Dehghani_ (University of Southern California)_ <br>
+How Misinformation Exploits Moral Values and Framing: Insights from Social Media Platforms and Behavioral Experiments
+
+- **Master's Thesis:** Advised by _Joschka Schulz & Matthias Kraume (TU Berlin)_ <br> 
 An exemplary study on automated categorisation and evaluation of peer-reviewed scientific literature concerning interfacial effects in disperse multi-phase systems 
 
-- **Bachelor's Thesis:** _Philipp Schäpers & Stefan Krumm (FU Berlin)_ <br> 
+- **Bachelor's Thesis:** Advised by _Philipp Schäpers & Stefan Krumm (FU Berlin)_ <br> 
 Predicting Job-Ratings from Job-Postings using Natural Language Processing: A Machine Learning Approach to Understanding Corporate Language 
 
-- **Bachelor's Thesis:** _Lia Strenge & Jörg Raisch (TU Berlin)_ <br> 
+- **Bachelor's Thesis:** Advised by _Lia Strenge & Jörg Raisch (TU Berlin)_ <br> 
 Model Identification for Designing a PWM-based Solar Charge Controller 
 
 {% include_relative _includes/services.md %}
