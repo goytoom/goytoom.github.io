@@ -13,6 +13,7 @@ Currently, my research focuses on grounding computational methods in psychologic
 
 ## Research Interests 
 
+- **Psychology of AI:**: How can studying the psychology of AI systems improve AI functionality and interaction (e.g., human-centered AI), and potentially even deepen our understanding of human psychology?
 - **Morality, Values, and Pro-social Behavior:** How do humans conceptualize moral values and how do they guide our behavior, good or bad?
 - **Online & Social Media Behavior:** What insights does online behavior across various contexts provide about hate, conflicts, as well as mental health & well-being? 
 - **Theory-Driven Computational Models:** How can we place top-down, theory-driven constraints on computational methods to increase interpretability and robustness? 
