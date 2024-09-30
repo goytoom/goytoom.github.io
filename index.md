@@ -27,7 +27,7 @@ Currently, my research focuses on grounding computational methods in psychologic
 
 <!-- ## News -->
 <!--  -->
-<!-- - **[Aug. 2024]** Coming soon. -->
+<!-- - **[October. 2024]** Coming soon. -->
 
 
 {% include_relative _includes/publications.md %} 
