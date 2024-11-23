@@ -1,7 +1,6 @@
 main:
   - title: "Targeting Audiences’ Moral Values Shapes Misinformation Sharing"
-    authors: <strong>Suhaib Abdurahman</strong>, Nils K. Reimer, Preni Golazizian, Elisa Baek, Yixuan Shen, Jackson Trager, Roshni Lulla, Jonas Kaplan,Carolyn Parkinson, and Morteza
-    Dehghani
+    authors: <strong>Suhaib Abdurahman</strong>, Nils K. Reimer, Preni Golazizian, Elisa Baek, Yixuan Shen, Jackson Trager, Roshni Lulla, Jonas Kaplan, Carolyn Parkinson, and Morteza Dehghani
     conference: Journal of Experimental Psychology: General <strong>(JEP:G)</strong>, 2024.
     pdf: ./assets/files/eager.pdf
     code: https://github.com/goytoom/targeting_audiences_values
