@@ -41,19 +41,20 @@ Currently, my research focuses on grounding computational methods in psychologic
 - Abdurahman, S., Osborne, M., Omrani, A. (2022). Responding to Wrongdoing: Status Conferral in Online Conflicts. Media \& Technology Preconference @ SPSP
 
 ## Current Projects 
-- **Targeting Audiences' Moral Values Shapes Misinformation Sharing:** We analyze how moral framing increases dissemination of online misinformation and its potential for
-targeted misinformation campaigns. We combine large-scale social media analyses with behavioral experiments and find that matched moral framing in line with individuals'
- moral values increases its spread independent of message veracity, familiarity or believability. 
- - **Evaluating Large Language Models in Psychological Research: A Guide for Authors and Reviewers:** We provide a set of best practices for authors and reviewers in psychological research
-  involving Large Language Models (LLMs). Our guide emphasizes methodological rigor, replicability, and transparency, addressing the challenges posed by the non-deterministic nature of LLMs. 
-  By ensuring robust and valid applications of LLMs, we aim to support high-quality, innovative research in the evolving landscape of psychological studies
+- **Testung psychological theories using generative Agents:** We use multi-agent frameworks that combine LLMs with Agent-Based Modeling (ABM) to study social dynamics 
+and test psychological theories. This approach enables the simulation of human-like behaviors while avoiding restrictive top-down assumptions. 
+The LLM-ABM structure allows manipulation of environmental and participant variables, such as identity and demographics, that cannot be changed in human samples. 
+These manipulations help establish causal relationships, test boundary conditions, and facilitate the generation of novel hypotheses, e.g., by probing LLM agents
+at the point of decision-making. This framework facilitates the comparison of theories and the exploration of variables that influence predicted outcomes.
+- **Evaluating Large Language Models in Psychological Research: A Guide for Authors and Reviewers:** We provide a set of best practices for authors and reviewers in psychological research
+involving Large Language Models (LLMs). Our guide emphasizes methodological rigor, replicability, and transparency, addressing the challenges posed by the non-deterministic nature of LLMs. 
+By ensuring robust and valid applications of LLMs, we aim to support high-quality, innovative research in the evolving landscape of psychological studies
 - **Explaining Explainability: Interpretable machine learning for the behavioral sciences:** We advocate for the adoption of interpretable Machine Learning (ML) techniques in behavioral sciences,
- dispelling misconceptions that ML models are 'black boxes' and unsuitable for inference. By highlighting the nuanced nature of model interpretability, 
- the compatibility of interpretability with predictive accuracy, and the potential of post hoc explanations, we encourage the use of ML models to both predict and understand complex behavioral phenomena.
-- **Contextual Moral Values and Categorization:** We propose a novel framework that emphasizes the role of representations and categorization for moral values.
-In this framework, individuals hold distinct notions of right and wrong, with real-life scenarios contextually mapping onto these representations as exemplars (e.g., via perception of prototypicality) or through associated features (e.g., perceived harm). 
-Through multiple empirical studies, we investigate the interplay between context, moral judgments, and value representations in the brain, offering theory-informed insights into vital moral topics. 
-By embracing context and a representation lens, we enhance the scope of context-sensitive moral psychology research and facilitate the integration of diverse moral theories. 
+dispelling misconceptions that ML models are 'black boxes' and unsuitable for inference. By highlighting the nuanced nature of model interpretability, 
+the compatibility of interpretability with predictive accuracy, and the potential of post hoc explanations, we encourage the use of ML models to both predict and understand complex behavioral phenomena.
+- **Contextual Moral Values and Categorization:** We investigate the role of representations and categorization for moral decision-making, focusing on the interplay between context, 
+moral judgments, and value representations in the brain, offering theory-informed insights into vital moral topics. 
+By embracing a context and a representation lens, we enhance the scope of context-sensitive moral psychology research and facilitate the integration of diverse moral theories. 
 - **Social inferences in language models:** We investigate the social inferences from responses to psychological questionnaires in small fine-tuned encoder-based language models (e.g., BERT) and large generative language models (GPT-3.5, GPT-4)
 Our comparison with human raters reveals that generative models stand out in accuracy but show more biases and are less transparent than smaller models. 
 We further find that addressing biases in LLMs benefits from few-shot prompting and targeted fine-tuning, underscoring the trade-offs between accuracy, bias, and transparency in applying language models to social inference tasks.
