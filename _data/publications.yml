@@ -2,11 +2,11 @@ main:
   - title: "Targeting Audiences’ Moral Values Shapes Misinformation Sharing"
     authors: <strong>Suhaib Abdurahman</strong>, Nils K. Reimer, Preni Golazizian, Elisa Baek, Yixuan Shen, Jackson Trager, Roshni Lulla, Jonas Kaplan, Carolyn Parkinson, and Morteza Dehghani
     conference: "Journal of Experimental Psychology: General <strong>(JEP:G)</strong>, 2024."
-    pdf: ./assets/files/eager.png
+    pdf: ./assets/files/eager.pdf
     code: https://github.com/goytoom/targeting_audiences_values
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    image: ./assets/img/eager.pdf
+    image: ./assets/img/eager.png
     
   - title: "Perils and opportunities in using large language models in psychological research"
     authors: <strong>Suhaib Abdurahman</strong>, Mohammad Atari, Farzan Karimi-Malekabadi, Mona J Xue, Jackson Trager, Peter S Park, Preni Golazizian, Ali Omrani, Morteza Dehghani
