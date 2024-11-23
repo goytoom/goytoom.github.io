@@ -41,11 +41,9 @@ Currently, my research focuses on grounding computational methods in psychologic
 - Abdurahman, S., Osborne, M., Omrani, A. (2022). Responding to Wrongdoing: Status Conferral in Online Conflicts. Media \& Technology Preconference @ SPSP
 
 ## Current Projects 
-- **Testung psychological theories using generative Agents:** We use multi-agent frameworks that combine LLMs with Agent-Based Modeling (ABM) to study social dynamics 
-and test psychological theories. This approach enables the simulation of human-like behaviors while avoiding restrictive top-down assumptions. 
-The LLM-ABM structure allows manipulation of environmental and participant variables, such as identity and demographics, that cannot be changed in human samples. 
-These manipulations help establish causal relationships, test boundary conditions, and facilitate the generation of novel hypotheses, e.g., by probing LLM agents
-at the point of decision-making. This framework facilitates the comparison of theories and the exploration of variables that influence predicted outcomes.
+- **Testing Psychological Theories With Generative Agents:** We combine LLMs with Agent-Based Modeling (ABM) to study social dynamics and test psychological theories. 
+Our multi-agent LLM approach enables the simulation of social dynamics without restrictive top-down assumptions while also allowing to manipulate environmental and participant variables that cannot be changed in human samples.
+These simulation can help establish causal relationships, test boundary conditions, facilitate novel hypotheses, and compare the predictive validity of competing theories.
 - **Evaluating Large Language Models in Psychological Research: A Guide for Authors and Reviewers:** We provide a set of best practices for authors and reviewers in psychological research
 involving Large Language Models (LLMs). Our guide emphasizes methodological rigor, replicability, and transparency, addressing the challenges posed by the non-deterministic nature of LLMs. 
 By ensuring robust and valid applications of LLMs, we aim to support high-quality, innovative research in the evolving landscape of psychological studies
