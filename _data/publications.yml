@@ -1,12 +1,13 @@
 main:
- - title: "A Primer for Evaluating Large Language Models in Social-Science Research"
+  - title: "A Primer for Evaluating Large Language Models in Social-Science Research"
     authors: <strong>Suhaib Abdurahman</strong>, Alireza Salkhordeh Ziabari, Alexander K. Moore, Daniel M. Bartels, and Morteza Dehghani
     conference: "Advances in Methods and Practices in Psychological Science <strong>(AMPPS)</strong>, 2025."
     pdf: ./assets/files/primer.pdf
     code: https://github.com/goytoom/llm_psychology_guide
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    image: ./assets/img/eager.png
+    image: ./assets/img/primer.png
+    
   - title: "Targeting Audiences’ Moral Values Shapes Misinformation Sharing"
     authors: <strong>Suhaib Abdurahman</strong>, Nils K. Reimer, Preni Golazizian, Elisa Baek, Yixuan Shen, Jackson Trager, Roshni Lulla, Jonas Kaplan, Carolyn Parkinson, and Morteza Dehghani
     conference: "Journal of Experimental Psychology: General <strong>(JEP:G)</strong>, 2024."
