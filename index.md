@@ -27,7 +27,7 @@ Currently, my research focuses on grounding computational methods in psychologic
 
 <!-- ## News -->
 <!--  -->
-<!-- - **[October. 2024]** Coming soon. -->
+<!-- - **[October. 2025]** Coming soon. -->
 
 
 {% include_relative _includes/publications.md %} 
@@ -44,9 +44,6 @@ Currently, my research focuses on grounding computational methods in psychologic
 - **Testing Psychological Theories With Generative Agents:** We combine LLMs with Agent-Based Modeling (ABM) to study social dynamics and test psychological theories. 
 Our multi-agent LLM approach enables the simulation of social dynamics without restrictive top-down assumptions while also allowing to manipulate environmental and participant variables that cannot be changed in human samples.
 These simulation can help establish causal relationships, test boundary conditions, facilitate novel hypotheses, and compare the predictive validity of competing theories.
-- **Evaluating Large Language Models in Psychological Research: A Guide for Authors and Reviewers:** We provide a set of best practices for authors and reviewers in psychological research
-involving Large Language Models (LLMs). Our guide emphasizes methodological rigor, replicability, and transparency, addressing the challenges posed by the non-deterministic nature of LLMs. 
-By ensuring robust and valid applications of LLMs, we aim to support high-quality, innovative research in the evolving landscape of psychological studies
 - **Explaining Explainability: Interpretable machine learning for the behavioral sciences:** We advocate for the adoption of interpretable Machine Learning (ML) techniques in behavioral sciences,
 dispelling misconceptions that ML models are 'black boxes' and unsuitable for inference. By highlighting the nuanced nature of model interpretability, 
 the compatibility of interpretability with predictive accuracy, and the potential of post hoc explanations, we encourage the use of ML models to both predict and understand complex behavioral phenomena.
