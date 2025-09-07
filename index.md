@@ -44,7 +44,7 @@ Currently, my research focuses on grounding computational methods in psychologic
 - **Testing Psychological Theories With Generative Agents:** We combine LLMs with Agent-Based Modeling (ABM) to study social dynamics and test psychological theories. 
 Our multi-agent LLM approach enables the simulation of social dynamics without restrictive top-down assumptions while also allowing to manipulate environmental and participant variables that cannot be changed in human samples.
 These simulation can help establish causal relationships, test boundary conditions, facilitate novel hypotheses, and compare the predictive validity of competing theories.
- **Contextual Moral Values and Categorization:** We investigate the role of representations and categorization for moral decision-making, focusing on the interplay between context, 
+- **Contextual Moral Values and Categorization:** We investigate the role of representations and categorization for moral decision-making, focusing on the interplay between context, 
 moral judgments, and value representations in the brain, offering theory-informed insights into vital moral topics. 
 By embracing a context and a representation lens, we enhance the scope of context-sensitive moral psychology research and facilitate the integration of diverse moral theories. 
 - **Counter-normative status conferral on social media platform:** We combine large-scale social media analysis with behavioral experiments to investigate how and when groups punish or reward norm-violations, such as aggression and incivility. 
