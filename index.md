@@ -2,11 +2,13 @@
 layout: homepage
 ---
 
-## About Me 
+## About Me
 I am a social psychologist with a strong engineering background. 
-After completing BS/MS degrees in Process Engineering at the Berlin Institute of Technology, I transitioned to psychology at Free University Berlin. 
+I first worked on applying machine learning to control systems and process optimization (BS/MS Process Engineering, TU Berlin), 
+but became increasingly interested in using these methods to study human behavior. 
+This led me to pursue psychology (BS, Free University Berlin; PhD, University of Southern California).  
 My research now combines computational and behavioral methods to study complex social phenomena, with a focus on grounding computational models in psychological theory. 
-More recently, I have extended this work to improving AI systems by incorporating psychological theories of cognition and social behavior, particularly in the design of agentic AI.  
+More recently, I have extended this work to improving AI systems by incorporating psychological theories of cognition and social behavior, particularly in the design of agentic AI.   
 
 ## Research Interests
 
