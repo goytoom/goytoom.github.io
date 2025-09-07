@@ -14,7 +14,7 @@ More recently, I have extended this work to improving AI systems by incorporatin
 
 - **Computational Social Dynamics:** Using simulations and computational models to uncover mechanisms of group behavior and generate insights that inform both theory and applications.  
 - **Psychologically Informed AI:** Leveraging psychological theories of cognition and social behavior to build AI systems that are more robust, flexible, and higher-performing.  
-- **Theory-Grounded Methods & Applications:** Developing approaches that are rooted in psychological theory, ensuring interpretability, robustness, and enduring relevance across contexts.  
+- **Theory-Grounded Methods & Applications:** Developing approaches rooted in psychological theory to ensure interpretability, robustness, and relevance across contexts.  
 - **Morality and Social Behavior:** Understanding how moral values shape consequential behaviors in digital environments and beyond, including conflict, cooperation, and well-being.  
 
 ## Research Methods
