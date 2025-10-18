@@ -7,9 +7,9 @@ I am a social psychologist with a strong engineering background.
 I originally worked on applying machine learning to control systems and process optimization (BS/MS Process Engineering, TU Berlin), 
 but became increasingly interested in using these methods to study human behavior (BS, Free University Berlin; PhD, University of Southern California).  
 
-My research now integrates computational and behavioral methods to study complex social phenomena, with an emphasis on grounding computational models in psychology. 
-More recently, I have extended this work to advancing AI systems, and particularly agentic AI, by integrating insights from psychology with computational techniques 
-to design systems that are more adaptive, robust, and socially aware.
+My research now integrates computational and behavioral methods to study complex social phenomena, with an emphasis on grounding computational models in psychological theory. 
+More recently, I have extended my work to improving AI systems, especially agentic AI, by applying psychological insights to make them more adaptive, robust, and socially aware.
+
 ## Research Interests
 
 - **Computational Social Dynamics:** Using simulations and computational models to uncover mechanisms of group behavior and generate insights that inform both theory and applications.  
@@ -41,7 +41,7 @@ to design systems that are more adaptive, robust, and socially aware.
 
 ## Current Projects 
 - **Testing Psychological Theories with Generative Agents:** Using multi-agent simulations and LLMs to model social dynamics and evaluate psychological theories.  
-- **Moral Values and Decision-Making:** Investigating how context, categorization, and representations, and reward-based learning shape moral judgments and social behavior.  
+- **Moral Values and Decision-Making:** Investigating how context, categorization, concept representations, and reward-based learning shape moral judgments and behavior.  
 - **Status and Norms in Online Platforms:** Studying when groups punish or reward norm violations such as aggression and incivility, and how these dynamics influence online discourse.  
 
 ## Past Projects
