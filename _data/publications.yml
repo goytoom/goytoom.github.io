@@ -1,5 +1,5 @@
 main:
- - title: "Realistic threat perception drives intergroup conflict: A causal, dynamic analysis using generative-agent simulations"
+  - title: "Realistic threat perception drives intergroup conflict: A causal, dynamic analysis using generative-agent simulations"
     authors: <strong>Suhaib Abdurahman</strong>, Farzan Karimi-Malekabadi, Chenxiao Yu, Nour S. Kteily, and Morteza Dehghani
     conference: "arXiv <strong>(arXiv)</strong>, 2025."
     pdf: ./assets/files/threat_agents.pdf
