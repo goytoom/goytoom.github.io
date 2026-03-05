@@ -40,7 +40,6 @@ More recently, I have extended my work to improving AI systems, especially agent
 - Abdurahman, S., Osborne, M., Trager, J., Omrani, A., Dehghani, M. (2022). Fighting Fire with Fire: How groups incentivize incivility on social media platforms. Psychology of Technology
 
 ## Current Projects 
-- **Testing Psychological Theories with Generative Agents:** Using multi-agent simulations and LLMs to model social dynamics and evaluate psychological theories.  
 - **Moral Values and Decision-Making:** Investigating how context, categorization, concept representations, and reward-based learning shape moral judgments and behavior.  
 - **Status and Norms in Online Platforms:** Studying when groups punish or reward norm violations such as aggression and incivility, and how these dynamics influence online discourse.  
 
