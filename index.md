@@ -7,23 +7,15 @@ I am a social psychologist with a strong engineering background.
 I originally worked on applying machine learning to control systems and process optimization (BS/MS Process Engineering, TU Berlin), 
 but became increasingly interested in using these methods to study human behavior (BS, Free University Berlin; PhD, University of Southern California).  
 
-My research now integrates computational and behavioral methods to study complex social phenomena, with an emphasis on grounding computational models in psychological theory. 
-More recently, I have extended my work to improving AI systems, especially agentic AI, by applying psychological insights to make them more adaptive, robust, and socially aware.
+I now work as a researcher and Applied Scientist at the intersection of Social Psychology and Machine Learning. 
+My work focuses on applying psychological and cognitive theory to build more capable AI systems and on using computational methods to uncover the mechanisms underlying human behavior.
 
-## Research Interests
+## Research Interests and Methods
 
-- **Computational Social Dynamics:** Using simulations and computational models to uncover mechanisms of group behavior and generate insights that inform both theory and applications.  
-- **Psychologically Informed AI:** Leveraging psychological theories of cognition and social behavior to build AI systems that are more robust, flexible, and higher-performing.  
-- **Theory-Grounded Methods & Applications:** Developing approaches rooted in psychological theory to ensure interpretability, robustness, and relevance across contexts.  
-- **Morality and Social Behavior:** Understanding how moral values shape consequential behaviors in digital environments and beyond, including conflict, cooperation, and well-being.  
-
-## Research Methods
-
-- **Computational Modeling & Simulation:** Multi-agent and agent-based modeling to test psychological theories and explore emergent dynamics of social systems.
-- **Machine Learning & AI Systems:** Applying ML to study human behavior and social phenomena, and to improve AI systems using psychological insights.  
-- **Natural Language Processing:** Using NLP to extract psychological signals from text to study human concepts, opinions, and social behavior.  
-- **Experiments & Surveys:** Designing behavioral and survey studies to validate insights from computational models and extend psychological theory.
-- **Advanced Statistical Methods:** Employing Bayesian multilevel and other robust modeling techniques for generalizable and interpretable findings.
+- **Socio-Cognitive & Agentic AI:** Building more adaptive and robust AI agents by drawing on psychology and cognitive science to improve how agents coordinate and collaborate (e.g., task allocation, instruction-following, adversarial detection), boosting performance and reliability across both social and non-social settings.
+- **Theory-Driven Evaluation:**  Developing benchmarks and evaluation frameworks grounded in psychological and cognitive theory to move beyond surface-level metrics and assess the latent cognitive and social capabilities of AI systems.
+- **Social Simulations:**: Using Agent-Based Modeling (ABM) and LLM-based simulations to study emergent dynamics in human and AI systems alike—for example, uncovering under what conditions humans and/or agents cooperate, compete, or sabotage.
+- **Computational Social Science**: Investigating how human values, traits, and perceptions drive complex social behaviors like intergroup conflict, misinformation sharing, and digital well-being. I combine large-scale behavioral experiments (surveys, interactive trials) with NLP and representation learning to extract psychological signals and build predictive models of human behavior at scale. 
 
 <!-- ## News -->
 <!--  -->
@@ -32,18 +24,18 @@ More recently, I have extended my work to improving AI systems, especially agent
 
 {% include_relative _includes/publications.md %} 
 
-## Conferences 
-- Abdurahman, S., Reimer, N. K., Golazizian, P., Baek, E., Shen, Y., Trager, J., Lulla, R., Kaplan, J., Parkinson, C., Dehghani, M. (2024). Investigating the Impact of Targeting Audiences' Moral Values on Sharing Online-Misinformation. SPSP
+## Selected Conference Presentations 
+- 
+<!-- - Abdurahman, S., Reimer, N. K., Golazizian, P., Baek, E., Shen, Y., Trager, J., Lulla, R., Kaplan, J., Parkinson, C., Dehghani, M. (2024). Investigating the Impact of Targeting Audiences' Moral Values on Sharing Online-Misinformation. SPSP -->
 - Abdurahman, S., Vu, H., Zou, W., Ungar, L., Bhatia, S. (2024). A Deep Language Approach to Personality Assessment: Generalizing Across Items and Expanding the Reach of Survey-Based Research. SPSP
 - Abdurahman, S., Vu, H. (2023). Investigating Social Inferences in Large Language Models: Advancements and Biases. Psychology of Technology
-- Abdurahman, S., Preston, E. (2023). Sharing is in Fact about Caring: Care Concerns Feature Prominently on Subreddits Devoted to Self-Injurious Thoughts and Behaviors. SPSP
-- Abdurahman, S., Osborne, M., Trager, J., Omrani, A., Dehghani, M. (2022). Fighting Fire with Fire: How groups incentivize incivility on social media platforms. Psychology of Technology
+<!-- - Abdurahman, S., Preston, E. (2023). Sharing is in Fact about Caring: Care Concerns Feature Prominently on Subreddits Devoted to Self-Injurious Thoughts and Behaviors. SPSP -->
+<!-- - Abdurahman, S., Osborne, M., Trager, J., Omrani, A., Dehghani, M. (2022). Fighting Fire with Fire: How groups incentivize incivility on social media platforms. Psychology of Technology -->
 
-## Current Projects 
-- **Moral Values and Decision-Making:** Investigating how context, categorization, concept representations, and reward-based learning shape moral judgments and behavior.  
-- **Status and Norms in Online Platforms:** Studying when groups punish or reward norm violations such as aggression and incivility, and how these dynamics influence online discourse.  
+## Ongoing Academic Projects 
+- **Modeling Moral Values and Decision-Making:** Investigating how context, categorization, concept representations, and reward-based learning shape moral judgments and behavior.  
 
-## Past Projects
+## Side Projects
 
 - **Social Inferences in Language Models:** Comparing small encoder-based models (e.g., BERT) and large generative models (e.g., GPT-3.5, GPT-4) in their ability to make social inferences from psychological questionnaires. Generative models were more accurate but also more biased and less transparent, highlighting trade-offs between accuracy, bias, and interpretability.  
 

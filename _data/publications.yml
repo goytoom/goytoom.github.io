@@ -1,4 +1,11 @@
 main:
+  - title: "Explicit Trait Inference for Multi-Agent Coordination"
+    authors: <strong>Suhaib Abdurahman</strong>, Etsuko Ishii, Katerina Margatina, Divya Bhargavi, Monica Sunkara, Yi Zhang
+    conference: "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics <strong>(ACL 2026)</strong>, Main Track."
+    pdf: ./assets/files/ETI.pdf
+    # code: 
+    image: ./assets/img/ETI.png
+
   - title: "Realistic threat perception drives intergroup conflict: A causal, dynamic analysis using generative-agent simulations"
     authors: <strong>Suhaib Abdurahman</strong>, Farzan Karimi-Malekabadi, Chenxiao Yu, Nour S. Kteily, and Morteza Dehghani
     conference: "arXiv <strong>(arXiv)</strong>, 2025."
@@ -7,6 +14,13 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/threat_agents.png
+    
+  - title: "Tracing Moral Foundations in Large Language Models"
+    authors: Chenxiao Yu, Bowen Yi, Farzan Karimi-Malekabadi, <strong>Suhaib Abdurahman</strong>, Jinyi Ye, Shrikanth Narayanan, Yue Zhao, Morteza Dehghani
+    conference: "arXiv <strong>(arXiv)</strong>, 2025."
+    pdf: ./assets/files/moral_trace.pdf
+    # code: 
+    image: ./assets/img/moral_trace.png
     
   - title: "A Primer for Evaluating Large Language Models in Social-Science Research"
     authors: <strong>Suhaib Abdurahman</strong>, Alireza Salkhordeh Ziabari, Alexander K. Moore, Daniel M. Bartels, and Morteza Dehghani
@@ -17,14 +31,14 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/primer.png
     
-  - title: "Targeting Audiences’ Moral Values Shapes Misinformation Sharing"
-    authors: <strong>Suhaib Abdurahman</strong>, Nils K. Reimer, Preni Golazizian, Elisa Baek, Yixuan Shen, Jackson Trager, Roshni Lulla, Jonas Kaplan, Carolyn Parkinson, and Morteza Dehghani
-    conference: "Journal of Experimental Psychology: General <strong>(JEP:G)</strong>, 2024."
-    pdf: ./assets/files/eager.pdf
-    code: https://github.com/goytoom/targeting_audiences_values
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    image: ./assets/img/eager.png
+  # - title: "Targeting Audiences’ Moral Values Shapes Misinformation Sharing"
+    # authors: <strong>Suhaib Abdurahman</strong>, Nils K. Reimer, Preni Golazizian, Elisa Baek, Yixuan Shen, Jackson Trager, Roshni Lulla, Jonas Kaplan, Carolyn Parkinson, and Morteza Dehghani
+    # conference: "Journal of Experimental Psychology: General <strong>(JEP:G)</strong>, 2024."
+    # pdf: ./assets/files/eager.pdf
+    # code: https://github.com/goytoom/targeting_audiences_values
+    # # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # image: ./assets/img/eager.png
     
   - title: "Perils and opportunities in using large language models in psychological research"
     authors: <strong>Suhaib Abdurahman</strong>, Mohammad Atari, Farzan Karimi-Malekabadi, Mona J Xue, Jackson Trager, Peter S Park, Preni Golazizian, Ali Omrani, Morteza Dehghani
@@ -44,14 +58,14 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/a_deep_learning_approach.png
     
-  - title: "Sharing is in fact about caring: Care concerns feature prominently in subreddits devoted to self-injurious thoughts and behaviors"
-    authors: Emma Preston <strong>Suhaib Abdurahman</strong>, Diane Woodward, Amy West
-    conference: Computers in Human Behavior, 2023.
-    pdf: ./assets/files/sharing_is_caring.pdf  #add to server and directly link
-    code: https://github.com/goytoom/eSITB
-    # page: https://doi.org/10.1016/j.chb.2023.107786
-    bibtex: https://www.sciencedirect.com/sdfe/arp/cite?pii=S0747563223001371&format=text%2Fx-bibtex&withabstract=true
-    image: ./assets/img/sharing_is_caring.jpg
+  # - title: "Sharing is in fact about caring: Care concerns feature prominently in subreddits devoted to self-injurious thoughts and behaviors"
+    # authors: Emma Preston <strong>Suhaib Abdurahman</strong>, Diane Woodward, Amy West
+    # conference: Computers in Human Behavior, 2023.
+    # pdf: ./assets/files/sharing_is_caring.pdf  #add to server and directly link
+    # code: https://github.com/goytoom/eSITB
+    # # page: https://doi.org/10.1016/j.chb.2023.107786
+    # bibtex: https://www.sciencedirect.com/sdfe/arp/cite?pii=S0747563223001371&format=text%2Fx-bibtex&withabstract=true
+    # image: ./assets/img/sharing_is_caring.jpg
 
   - title: "Predicting responses to psychological questionnaires from participants’ social media posts and question text embeddings"
     authors: Huy Vu, <strong>Suhaib Abdurahman</strong>, Sudeep Bhatia, Lyle Ungar
