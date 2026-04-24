@@ -25,7 +25,7 @@ My work focuses on applying psychological theory to build more capable AI system
 {% include_relative _includes/publications.md %} 
 
 ## Selected Conference Presentations 
-- Abdurahman, S., Ishii, E., Margatina, K., Bhargavi, D., Sunkara, M., Zhang, Y. (2026). Explicit Trait Inference for Multi-Agent Coordination. ACL 2026 Main Track
+- Abdurahman, S., Ishii, E., Margatina, K., Bhargavi, D., Sunkara, M., Zhang, Y. (2026). Explicit Trait Inference for Multi-Agent Coordination. Association for Computational Linguistics (ACL) 2026 Main Track
 <!-- - Abdurahman, S., Reimer, N. K., Golazizian, P., Baek, E., Shen, Y., Trager, J., Lulla, R., Kaplan, J., Parkinson, C., Dehghani, M. (2024). Investigating the Impact of Targeting Audiences' Moral Values on Sharing Online-Misinformation. SPSP -->
 - Abdurahman, S., Vu, H., Zou, W., Ungar, L., Bhatia, S. (2024). A Deep Language Approach to Personality Assessment: Generalizing Across Items and Expanding the Reach of Survey-Based Research. SPSP
 - Abdurahman, S., Vu, H. (2023). Investigating Social Inferences in Large Language Models: Advancements and Biases. Psychology of Technology
