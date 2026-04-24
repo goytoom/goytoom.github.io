@@ -15,7 +15,7 @@ My work focuses on applying psychological theory to build more capable AI system
 - **Socio-Cognitive & Agentic AI:** Building more adaptive and robust AI agents by drawing on psychology and cognitive science to improve how agents coordinate and collaborate (e.g., task allocation, instruction-following, adversarial detection), boosting performance and reliability across both social and non-social settings.
 - **Theory-Driven Evaluation:**  Developing benchmarks and evaluation frameworks grounded in psychological and cognitive theory to move beyond surface-level metrics and assess the latent cognitive and social capabilities of AI systems.
 - **Social Simulations:**: Using Agent-Based Modeling (ABM) and LLM-based simulations to study emergent dynamics in human and AI systems alike—for example, uncovering under what conditions humans and/or agents cooperate, compete, or sabotage.
-- **Computational Social Science**: Investigating how human values, traits, and perceptions drive complex social behaviors like intergroup conflict, misinformation sharing, and digital well-being. I combine behavioral experiments (surveys, interactive trials) with NLP and representation learning to extract psychological signals and build predictive models of human behavior. 
+- **Computational Social Science**: Investigating how human values, traits, and perceptions drive complex social behaviors like intergroup conflict, misinformation sharing, and digital well-being. I combine behavioral experiments with NLP and representation learning to extract psychological signals and build predictive models of human behavior. 
 
 <!-- ## News -->
 <!--  -->
